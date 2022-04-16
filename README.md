@@ -1,4 +1,4 @@
-[![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)](https://shrajan9696.github.io)
+<!-- [![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)](https://shrajan9696.github.io) -->
 
 <h1 align="center">Hi 👋, I'm Shrajan Jain</h1>
 <h3 align="center">A passionate programmer & Full Stack developer</h3>
