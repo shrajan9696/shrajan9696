@@ -1,7 +1,8 @@
-
+[![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)](https://shrajan9696.github.io)
 
 <h1 align="center">Hi 👋, I'm Shrajan Jain</h1>
 <h3 align="center">A passionate programmer & Full Stack developer</h3>
+<img align="right" alt="coding" width="400" src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrajan9696&label=Profile%20views&color=0e75b6&style=plastic" alt="shrajan9696" /> </p>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushboogoel01&label=Profile%20views&color=129e00&style=plastic" alt="khushboogoel01" /> </p> -->
