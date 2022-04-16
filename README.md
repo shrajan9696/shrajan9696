@@ -3,7 +3,8 @@
 <h1 align="center">Hi 👋, I'm Shrajan Jain</h1>
 <h3 align="center">A passionate programmer & Full Stack developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shrajan9696&label=Profile%20views&color=0e75b6&style=flat" alt="shrajan9696" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shrajan9696&label=Profile%20views&color=0e75b6&style=plastic" alt="shrajan9696" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushboogoel01&label=Profile%20views&color=129e00&style=plastic" alt="khushboogoel01" /> </p> -->
 
 - 🌱 I’m currently learning **Full Stack Development**
 
